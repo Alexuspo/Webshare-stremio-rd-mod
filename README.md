@@ -14,7 +14,7 @@ Hlavními principy jsou jednoduchost a nízká údržba. Z tohoto důvodu neobsa
 ## Jak to můžu používat?
 
 ### Online verze
-Navštivte stránku vašeho nasazeného addonu (např. pokud jste nasadili na Vercel, bude to URL jako https://vas-webshare-addon.vercel.app), zadejte své přihlašovací údaje k Webshare.cz, volitelně API klíč Real-Debrid a nainstalujte addon.
+Navštivte stránku vašeho nasazeného addonu (např. pokud jste nasadili na Vercel, bude to URL jako https://stremio-735075c8a30e.herokuapp.com/), zadejte své přihlašovací údaje k Webshare.cz, volitelně API klíč Real-Debrid a nainstalujte addon.
 
 Pro použití Real-Debrid:
 1. Získejte API klíč ze svého Real-Debrid účtu v sekci API
